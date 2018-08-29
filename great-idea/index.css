@@ -208,3 +208,70 @@ h1, h2, h3, h4, h5 {
     text-align: center;
     font-size: 14px;
   }
+  .container {
+      
+  }
+
+  .container .services {
+      border: 2px solid red;
+      display: flex;
+      margin-top: 50px;
+      /* flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap; */
+  }
+  .container .other {
+      display: flex;
+      flex-wrap: wrap;
+
+  }
+  .services section.services1 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+  }
+.services section.item1 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.services section.item2 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.services section.item3 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.services section.item4 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.services section.item5 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.services section.item6 {
+    border: 1px solid blue;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+}
